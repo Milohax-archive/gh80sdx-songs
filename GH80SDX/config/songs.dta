@@ -1,0 +1,1389 @@
+
+; 80s songs
+(18andlife
+   (name "18 and Life")
+   (artist
+      {do
+         {set $songalbum "Skid Row"}
+         {set $author "Harmonix"}
+         {set $songyear "1989"}
+         {set $songgenre "Glam Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 232282}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Skid Row"}
+      }
+      "Skid Row"
+   )
+   (song
+      (name songs/18andlife/18andlife)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/18andlife/18andlife.mid))
+   (song_vs
+      (name songs/18andlife/18andlife)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/18andlife/18andlife.mid))
+   (anim_tempo kTempoMedium)
+   (preview 58200 85800)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
+      (venue arena)))
+(ballstothewall
+   (name "Balls to the Wall")
+   (artist
+      {do
+         {set $songalbum "Balls to the Wall"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "Heavy Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 348813}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Accept"}
+      }
+      "Accept"
+   )
+   (song
+      (name songs/ballstothewall/ballstothewall)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/ballstothewall/ballstothewall.mid))
+   (song_vs
+      (name songs/ballstothewall/ballstothewall)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/ballstothewall/ballstothewall.mid))
+   (anim_tempo kTempoMedium)
+   (preview 87200 110000)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue fest)))
+(ballroomblitz
+   (name "Ballroom Blitz")
+   (artist
+      {do
+         {set $songalbum "The Blitz"}
+         {set $author "Harmonix"}
+         {set $songyear "1984"}
+         {set $songgenre "Glam Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 237282}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Krokus"}
+      }
+      "Krokus"
+   )
+   (song
+      (name songs/ballroomblitz/ballroomblitz)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -3.5 -3.5 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/ballroomblitz/ballroomblitz.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/ballroomblitz/ballroomblitz)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -3.5 -3.5 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/ballroomblitz/ballroomblitz.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 62900 83200)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue battle)))
+(bangyourhead
+   (name "(Bang Your Head) Metal Health")
+   (artist
+      {do
+         {set $songalbum "Metal Health"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "Heavy Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 317798}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Quiet Riot"}
+      }
+      "Quiet Riot"
+   )
+   (song
+      (name songs/bangyourhead/bangyourhead)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/bangyourhead/bangyourhead.mid))
+   (song_vs
+      (name songs/bangyourhead/bangyourhead)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/bangyourhead/bangyourhead.mid))
+   (anim_tempo kTempoMedium)
+   (preview 11400 32000)
+   (quickplay
+      (character_outfit metal1)
+      (guitar sg)
+      (venue battle)))
+(bathroomwall
+   (name "Bathroom Wall")
+   (artist
+      {do
+         {set $songalbum "Faster Pussycat"}
+         {set $author "Harmonix"}
+         {set $songyear "1987"}
+         {set $songgenre "Glam Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 217813}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Faster Pussycat"}
+      }
+      "Faster Pussycat"
+   )
+   (song
+      (name songs/bathroomwall/bathroomwall)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/bathroomwall/bathroomwall.mid))
+   (song_vs
+      (name songs/bathroomwall/bathroomwall)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/bathroomwall/bathroomwall.mid))
+   (anim_tempo kTempoFast)
+   (preview 84000 102000)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
+      (venue battle)))
+(becauseitsmidnite
+   (name "Because, It's Midnite")
+   (artist
+      {do
+         {set $songalbum "Strong Bad Sings (and Other Type Hits)"}
+         {set $author "Harmonix"}
+         {set $songyear "2003"}
+         {set $songgenre "Comedy"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 134438}
+         {set $songguitarrank 7}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Limozeen"}
+      }
+      "Limozeen"
+   )
+   (caption performed_by)
+   (song
+      (name songs/becauseitsmidnite/becauseitsmidnite)
+      (tracks
+         ((guitar (2 3))
+          (bass (4 5))
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.5 -2.5))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/becauseitsmidnite/becauseitsmidnite.mid))
+   (song_vs
+      (name songs/becauseitsmidnite/becauseitsmidnite)
+      (tracks
+         ((guitar (2 3))
+          (bass (4 5))))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.5 -2.5))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/becauseitsmidnite/becauseitsmidnite.mid))
+   (anim_tempo kTempoMedium)
+   (preview 29000 42400)
+   (quickplay
+      (character_outfit glam1)
+      (guitar lespaul)
+      (venue arena)))
+(caughtinamosh
+   (name "Caught in a Mosh")
+   (artist
+      {do
+         {set $songalbum "Among the Living"}
+         {set $author "Harmonix"}
+         {set $songyear "1986"}
+         {set $songgenre "Thrash Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 300970}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Anthrax"}
+      }
+      "Anthrax"
+   )
+   (song
+      (name songs/caughtinamosh/caughtinamosh)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/caughtinamosh/caughtinamosh.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/caughtinamosh/caughtinamosh)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/caughtinamosh/caughtinamosh.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 76500 97200)
+   (quickplay
+      (character_outfit punk1)
+      (guitar flying_v)
+      (venue fest)))
+(heatofthemoment
+   (name "Heat of the Moment")
+   (artist
+      {do
+         {set $songalbum "Asia"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "Progressive Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 235314}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Asia"}
+      }
+      "Asia"
+   )
+   (song
+      (name songs/heatofthemoment/heatofthemoment)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/heatofthemoment/heatofthemoment.mid))
+   (song_vs
+      (name songs/heatofthemoment/heatofthemoment)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/heatofthemoment/heatofthemoment.mid))
+   (anim_tempo kTempoMedium)
+   (preview 54500 69700)
+   (quickplay
+      (character_outfit goth2)
+      (guitar lespaul)
+      (venue theatre)))
+(electriceye
+   (name "The Hellion/Electric Eye")
+   (artist
+      {do
+         {set $songalbum "Screaming for Vengeance"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "Heavy Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 261554}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Judas Priest"}
+      }
+      "Judas Priest"
+   )
+   (caption performed_by)
+   (song
+      (name songs/electriceye/electriceye)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          (drum (4 5))))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/electriceye/electriceye.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/electriceye/electriceye)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/electriceye/electriceye.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 83700 103500)
+   (quickplay
+      (character_outfit metal1)
+      (guitar sg)
+      (venue theatre)))
+(holdonloosely
+   (name "Hold On Loosely")
+   (artist
+      {do
+         {set $songalbum "Wild-Eyed Southern Boys"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "Hard Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 277972}
+         {set $songguitarrank 5}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist ".38 Special"}
+      }
+      ".38 Special"
+   )
+   (song
+      (name songs/holdonloosely/holdonloosely)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/holdonloosely/holdonloosely.mid))
+   (song_vs
+      (name songs/holdonloosely/holdonloosely)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/holdonloosely/holdonloosely.mid))
+   (anim_tempo kTempoMedium)
+   (preview 87000 110200)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue fest)))
+(holydiver
+   (name "Holy Diver")
+   (artist
+      {do
+         {set $songalbum "Holy Diver"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "Hard Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 287006}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Dio"}
+      }
+      "Dio"
+   )
+   (song
+      (name songs/holydiver/holydiver)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -2.5 -2.5 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/holydiver/holydiver.mid))
+   (song_vs
+      (name songs/holydiver/holydiver)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -2.5 -2.5 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/holydiver/holydiver.mid))
+   (anim_tempo kTempoMedium)
+   (preview 56430 76430)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue arena)))
+(iran
+   (name "I Ran (So Far Away)")
+   (artist
+      {do
+         {set $songalbum "A Flock of Seagulls"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "New Wave"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 264666}
+         {set $songguitarrank 1}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "A Flock of Seagulls"}
+      }
+      "A Flock of Seagulls"
+   )
+   (caption performed_by)
+   (song
+      (name songs/iran/iran)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+          (drum (4 5))))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/iran/iran.mid))
+   (song_vs
+      (name songs/iran/iran)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/iran/iran.mid))
+   (anim_tempo kTempoMedium)
+   (preview 80000 100800)
+   (quickplay
+      (character_outfit goth2)
+      (guitar sg)
+      (venue small2)))
+(iwantcandy
+   (name "I Want Candy")
+   (artist
+      {do
+         {set $songalbum "The Last of the Mohicans"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "New wave"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 147330}
+         {set $songguitarrank 1}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Bow Wow Wow"}
+      }
+      "Bow Wow Wow"
+   )
+   (song
+      (name songs/iwantcandy/iwantcandy)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/iwantcandy/iwantcandy.mid))
+   (song_vs
+      (name songs/iwantcandy/iwantcandy)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/iwantcandy/iwantcandy.mid))
+   (anim_tempo kTempoMedium)
+   (preview 45000 63300)
+   (quickplay
+      (character_outfit goth2)
+      (guitar lespaul)
+      (venue battle))
+   (band metal_bass metal_drummer female_singer))
+(iwannarock
+   (name "I Wanna Rock")
+   (artist
+      {do
+         {set $songalbum "Stay Hungry"}
+         {set $author "Neversoft"}
+         {set $songyear "1984"}
+         {set $songgenre "Metal"}
+         {set $songorigin "Guitar Hero Smash Hits"}
+         {set $songduration 204082}
+         {set $songguitarrank 3}
+         {set $songbassrank 1}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 2}
+         {set $songartist "Twisted Sister"}
+      }
+      "Twisted Sister"
+   )
+   (caption performed_by)
+   (song
+      (name songs/iwannarock/iwannarock)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+          (drum (4 5))))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/iwannarock/iwannarock.mid))
+   (song_vs
+      (name songs/iwannarock/iwannarock)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/iwannarock/iwannarock.mid))
+   (anim_tempo kTempoMedium)
+   (preview 47700 75770)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue fest)))
+(lonelyisthenight
+   (name "Lonely is the Night")
+   (artist
+      {do
+         {set $songalbum "Don't Say No"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 282001}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Billy Squier"}
+      }
+      "Billy Squier"
+   )
+   (song
+      (name songs/lonelyisthenight/lonelyisthenight)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -2.5 -2.5 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/lonelyisthenight/lonelyisthenight.mid))
+   (song_vs
+      (name songs/lonelyisthenight/lonelyisthenight)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.0 -3.0 -2.5 -2.5 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/lonelyisthenight/lonelyisthenight.mid))
+   (anim_tempo kTempoMedium)
+   (preview 15500 40700)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue theatre)))
+(losangeles
+   (name "Los Angeles")
+   (artist
+      {do
+         {set $songalbum "Los Angeles"}
+         {set $author "Harmonix"}
+         {set $songyear "1980"}
+         {set $songgenre "Punk Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 147501}
+         {set $songguitarrank 4}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "X"}
+      }
+      "X"
+   )
+   (song
+      (name songs/losangeles/losangeles)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-0.5 -0.5 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/losangeles/losangeles.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/losangeles/losangeles)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-0.5 -0.5 -3.0 -3.0 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/losangeles/losangeles.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 11700 33600)
+   (quickplay
+      (character_outfit punk1)
+      (guitar flying_v)
+      (venue arena)))
+(noonelikeyou
+   (name "No One Like You")
+   (artist
+      {do
+         {set $songalbum "Blackout"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "Hard Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 245001}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Scorpions"}
+      }
+      "Scorpions"
+   )
+   (song
+      (name songs/noonelikeyou/noonelikeyou)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/noonelikeyou/noonelikeyou.mid))
+   (song_vs
+      (name songs/noonelikeyou/noonelikeyou)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/noonelikeyou/noonelikeyou.mid))
+   (anim_tempo kTempoMedium)
+   (preview 71700 106000)
+   (quickplay
+      (character_outfit metal1)
+      (guitar lespaul)
+      (venue arena)))
+(aintnothinbut
+   (name "Nothin' But a Good Time")
+   (artist
+      {do
+         {set $songalbum "Open Up and Say... Ahh!"}
+         {set $author "Harmonix"}
+         {set $songyear "1988"}
+         {set $songgenre "Glam Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 227688}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Poison"}
+      }
+      "Poison"
+   )
+   (song
+      (name songs/aintnothinbut/aintnothinbut)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/aintnothinbut/aintnothinbut.mid))
+   (song_vs
+      (name songs/aintnothinbut/aintnothinbut)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/aintnothinbut/aintnothinbut.mid))
+   (anim_tempo kTempoMedium)
+   (preview 65500 82000)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
+      (venue fest)))
+(onlyalad
+   (name "Only a Lad")
+   (artist
+      {do
+         {set $songalbum "Only a Lad"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "New Wave"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 238813}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Oingo Boingo"}
+      }
+      "Oingo Boingo"
+   )
+   (song
+      (name songs/onlyalad/onlyalad)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/onlyalad/onlyalad.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/onlyalad/onlyalad)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/onlyalad/onlyalad.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoMedium)
+   (preview 84500 114200)
+   (quickplay
+      (character_outfit goth2)
+      (guitar sg)
+      (venue small2)))
+(playwithme
+   (name "Play With Me")
+   (artist
+      {do
+         {set $songalbum "Extreme"}
+         {set $author "Harmonix"}
+         {set $songyear "1989"}
+         {set $songgenre "Speed Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 209307}
+         {set $songguitarrank 7}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Extreme"}
+      }
+      "Extreme"
+   )
+   (song
+      (name songs/playwithme/playwithme)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/playwithme/playwithme.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/playwithme/playwithme)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/playwithme/playwithme.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 43800 73000)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
+      (venue fest)))
+(policetruck
+   (name "Police Truck")
+   (artist
+      {do
+         {set $songalbum "Give Me Convenience or Give Me Death"}
+         {set $author "Harmonix"}
+         {set $songyear "1987"}
+         {set $songgenre "Punk Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 147400}
+         {set $songguitarrank 2}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Dead Kennedys"}
+      }
+      "Dead Kennedys"
+   )
+   (song
+      (name songs/policetruck/policetruck)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+          (drum (4 5))))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/policetruck/policetruck.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/policetruck/policetruck)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/policetruck/policetruck.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 21500 41400)
+   (quickplay
+      (character_outfit punk1)
+      (guitar lespaul)
+      (venue small1)))
+(radarlove
+   (name "Radar Love")
+   (artist
+      {do
+         {set $songalbum "Big Game"}
+         {set $author "Harmonix"}
+         {set $songyear "1989"}
+         {set $songgenre "Hard Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 355501}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "White Lion"}
+      }
+      "White Lion"
+   )
+   (song
+      (name songs/radarlove/radarlove)
+      (tracks
+         ((guitar (2 3))
+          (bass (4 5))
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/radarlove/radarlove.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/radarlove/radarlove)
+      (tracks
+         ((guitar (2 3))
+          (bass (4 5))))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/radarlove/radarlove.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 71000 94000)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
+      (venue small2)))
+(roundandround
+   (name "Round and Round")
+   (artist
+      {do
+         {set $songalbum "Out of the Cellar"}
+         {set $author "Harmonix"}
+         {set $songyear "1984"}
+         {set $songgenre "Glam Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 279939}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Ratt"}
+      }
+      "Ratt"
+   )
+   (song
+      (name songs/roundandround/roundandround)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/roundandround/roundandround.mid))
+   (song_vs
+      (name songs/roundandround/roundandround)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/roundandround/roundandround.mid))
+   (anim_tempo kTempoMedium)
+   (preview 66500 83200)
+   (quickplay
+      (character_outfit metal1)
+      (guitar flying_v)
+      (venue arena)))
+(seventeen
+   (name "Seventeen")
+   (artist
+      {do
+         {set $songalbum "Winger"}
+         {set $author "Harmonix"}
+         {set $songyear "1988"}
+         {set $songgenre "Glam Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 248939}
+         {set $songguitarrank 6}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Winger"}
+      }
+      "Winger"
+   )
+   (song
+      (name songs/seventeen/seventeen)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.5 -2.5 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/seventeen/seventeen.mid))
+   (song_vs
+      (name songs/seventeen/seventeen)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.5 -2.5 -1.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/seventeen/seventeen.mid))
+   (anim_tempo kTempoMedium)
+   (preview 49800 69500)
+   (quickplay
+      (character_outfit glam1)
+      (guitar flying_v)
+      (venue battle)))
+(shakin
+   (name "Shakin'")
+   (artist
+      {do
+         {set $songalbum "No Control"}
+         {set $author "Harmonix"}
+         {set $songyear "1982"}
+         {set $songgenre "Rock"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 195126}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Eddie Money"}
+      }
+      "Eddie Money"
+   )
+   (song
+      (name songs/shakin/shakin)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/shakin/shakin.mid))
+   (song_vs
+      (name songs/shakin/shakin)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-2.5 -2.5 -2.0 -2.0 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/shakin/shakin.mid))
+   (anim_tempo kTempoMedium)
+   (preview 37200 55000)
+   (quickplay
+      (character_outfit goth2)
+      (guitar lespaul)
+      (venue small2)))
+(synchronicity2
+   (name "Synchronicity II")
+   (artist
+      {do
+         {set $songalbum "Synchronicity"}
+         {set $author "Harmonix"}
+         {set $songyear "1983"}
+         {set $songgenre "New Wave"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 303059}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Police"}
+      }
+      "The Police"
+   )
+   (song
+      (name songs/synchronicity2/synchronicity2)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-1.5 -1.5 -4.0 -4.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/synchronicity2/synchronicity2.mid))
+   (song_vs
+      (name songs/synchronicity2/synchronicity2)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-1.5 -1.5 -4.0 -4.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/synchronicity2/synchronicity2.mid))
+   (anim_tempo kTempoFast)
+   (preview 56430 76430)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue theatre)))
+(turningjapanese
+   (name "Turning Japanese")
+   (artist
+      {do
+         {set $songalbum "New Clear Days"}
+         {set $author "Harmonix"}
+         {set $songyear "1980"}
+         {set $songgenre "New Wave"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 224100}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Vapors"}
+      }
+      "The Vapors"
+   )
+   (song
+      (name songs/turningjapanese/turningjapanese)
+      (tracks
+         ((guitar (2 3))
+          (bass (4 5))
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (-0.5 -0.5 -2.5 -2.5 -4.5 -4.5))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/turningjapanese/turningjapanese.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/turningjapanese/turningjapanese)
+      (tracks
+         ((guitar (2 3))
+          (bass (4 5))))
+      (pans (-1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols (-0.5 -0.5 -2.5 -2.5 -4.5 -4.5))
+      (cores (-1 -1 1 1 -1 -1))
+      (midi_file songs/turningjapanese/turningjapanese.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 72000 93700)
+   (quickplay
+      (character_outfit punk1)
+      (guitar flying_v)
+      (venue small1)))
+(thewarrior
+   (name "The Warrior")
+   (artist
+      {do
+         {set $songalbum "Warrior"}
+         {set $author "Harmonix"}
+         {set $songyear "1984"}
+         {set $songgenre "Power Pop"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 238018}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Scandal"}
+      }
+      "Scandal"
+   )
+   (caption performed_by)
+   (song
+      (name songs/thewarrior/thewarrior)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-1.5 -1.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/thewarrior/thewarrior.mid))
+   (song_vs
+      (name songs/thewarrior/thewarrior)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-1.5 -1.5 -3.0 -3.0 -0.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/thewarrior/thewarrior.mid))
+   (anim_tempo kTempoMedium)
+   (preview 56430 80200)
+   (quickplay
+      (character_outfit goth2)
+      (guitar sg)
+      (venue fest))
+   (band metal_bass metal_drummer female_singer))
+(wegotthebeat
+   (name "We Got the Beat")
+   (artist
+      {do
+         {set $songalbum "Beauty and the Beat"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "New Wave"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 152583}
+         {set $songguitarrank 1}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Go Go's"}
+      }
+      "The Go Go's"
+   )
+   (song
+      (name songs/wegotthebeat/wegotthebeat)
+      (tracks
+         ((guitar 2)
+          (bass 3)
+          (drum (4 5))))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/wegotthebeat/wegotthebeat.mid))
+   (song_vs
+      (name songs/wegotthebeat/wegotthebeat)
+      (tracks
+         ((guitar 2)
+          (bass 3)))
+      (pans (-1.0 1.0 0.0 0.0 -1.0 1.0))
+      (vols (0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores (-1 -1 1 -1 -1 -1))
+      (midi_file songs/wegotthebeat/wegotthebeat.mid))
+   (anim_tempo kTempoFast)
+   (preview 22000 44000)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar lespaul)
+      (venue battle))
+   (band metal_bass metal_drummer female_singer))
+(whatilikeaboutyou
+   (name "What I Like About You")
+   (artist
+      {do
+         {set $songalbum "The Romantics"}
+         {set $author "Harmonix"}
+         {set $songyear "1980"}
+         {set $songgenre "Power Pop"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 177907}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "The Romantics"}
+      }
+      "The Romantics"
+   )
+   (song
+      (name songs/whatilikeaboutyou/whatilikeaboutyou)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -2.0 -2.0 -5.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/whatilikeaboutyou/whatilikeaboutyou.mid)
+      (hopo_threshold 250))
+   (song_vs
+      (name songs/whatilikeaboutyou/whatilikeaboutyou)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-3.5 -3.5 -2.0 -2.0 -5.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/whatilikeaboutyou/whatilikeaboutyou.mid)
+      (hopo_threshold 250))
+   (anim_tempo kTempoFast)
+   (preview 25500 49500)
+   (quickplay
+      (character_outfit alterna1)
+      (guitar sg)
+      (venue small1)))
+(wrathchild
+   (name "Wrathchild")
+   (artist
+      {do
+         {set $songalbum "Killers"}
+         {set $author "Harmonix"}
+         {set $songyear "1981"}
+         {set $songgenre "Heavy Metal"}
+         {set $songorigin "Guitar Hero: Rocks the 80's"}
+         {set $songduration 178117}
+         {set $songguitarrank 0}
+         {set $songbassrank 0}
+         {set $songrhythmrank 0}
+         {set $songdrumrank 0}
+         {set $songartist "Iron Maiden"}
+      }
+      "Iron Maiden"
+   )
+   (song
+      (name songs/wrathchild/wrathchild)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)
+          
+          ))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-1.5 -1.5 -2.5 -2.5 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/wrathchild/wrathchild.mid))
+   (song_vs
+      (name songs/wrathchild/wrathchild)
+      (tracks
+         ((guitar (2 3))
+          (bass 4)))
+      (pans (-1.0 1.0 -1.0 1.0 0.0))
+      (vols (-1.5 -1.5 -2.5 -2.5 -2.0))
+      (cores (-1 -1 1 1 -1))
+      (midi_file songs/wrathchild/wrathchild.mid))
+   (anim_tempo kTempoMedium)
+   (preview 51500 75800)
+   (quickplay
+      (character_outfit punk1)
+      (guitar flying_v)
+      (venue fest)))
