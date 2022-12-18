@@ -7,11 +7,11 @@
          {set $songalbum "Skid Row"}
          {set $author "Harmonix"}
          {set $songyear "1989"}
-         {set $songgenre "Glam Metal"}
+         {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 232282}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Skid Row"}
@@ -51,11 +51,11 @@
          {set $songalbum "Balls to the Wall"}
          {set $author "Harmonix"}
          {set $songyear "1983"}
-         {set $songgenre "Heavy Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 348813}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Accept"}
@@ -95,11 +95,11 @@
          {set $songalbum "The Blitz"}
          {set $author "Harmonix"}
          {set $songyear "1984"}
-         {set $songgenre "Glam Rock"}
+         {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 237282}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Krokus"}
@@ -141,11 +141,11 @@
          {set $songalbum "Metal Health"}
          {set $author "Harmonix"}
          {set $songyear "1983"}
-         {set $songgenre "Heavy Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 317798}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Quiet Riot"}
@@ -185,11 +185,11 @@
          {set $songalbum "Faster Pussycat"}
          {set $author "Harmonix"}
          {set $songyear "1987"}
-         {set $songgenre "Glam Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 217813}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Faster Pussycat"}
@@ -229,11 +229,11 @@
          {set $songalbum "Strong Bad Sings (and Other Type Hits)"}
          {set $author "Harmonix"}
          {set $songyear "2003"}
-         {set $songgenre "Comedy"}
+         {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 134438}
          {set $songguitarrank 7}
-         {set $songbassrank 0}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Limozeen"}
@@ -273,12 +273,12 @@
       {do
          {set $songalbum "Among the Living"}
          {set $author "Harmonix"}
-         {set $songyear "1986"}
-         {set $songgenre "Thrash Metal"}
+         {set $songyear "1987"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 300970}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 7}
+         {set $songbassrank 7}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Anthrax"}
@@ -320,11 +320,11 @@
          {set $songalbum "Asia"}
          {set $author "Harmonix"}
          {set $songyear "1982"}
-         {set $songgenre "Progressive Rock"}
+         {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 235314}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 1}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Asia"}
@@ -364,11 +364,11 @@
          {set $songalbum "Screaming for Vengeance"}
          {set $author "Harmonix"}
          {set $songyear "1982"}
-         {set $songgenre "Heavy Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 261554}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 7}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Judas Priest"}
@@ -410,11 +410,11 @@
          {set $songalbum "Wild-Eyed Southern Boys"}
          {set $author "Harmonix"}
          {set $songyear "1981"}
-         {set $songgenre "Hard Rock"}
+         {set $songgenre "Southern Rock"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 277972}
          {set $songguitarrank 5}
-         {set $songbassrank 0}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist ".38 Special"}
@@ -454,11 +454,11 @@
          {set $songalbum "Holy Diver"}
          {set $author "Harmonix"}
          {set $songyear "1983"}
-         {set $songgenre "Hard Rock"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 287006}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Dio"}
@@ -502,7 +502,7 @@
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 264666}
          {set $songguitarrank 1}
-         {set $songbassrank 0}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "A Flock of Seagulls"}
@@ -542,11 +542,11 @@
          {set $songalbum "The Last of the Mohicans"}
          {set $author "Harmonix"}
          {set $songyear "1982"}
-         {set $songgenre "New wave"}
+         {set $songgenre "New Wave"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 147330}
          {set $songguitarrank 1}
-         {set $songbassrank 0}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Bow Wow Wow"}
@@ -631,11 +631,11 @@
          {set $songalbum "Don't Say No"}
          {set $author "Harmonix"}
          {set $songyear "1981"}
-         {set $songgenre "Rock"}
+         {set $songgenre "Classic Rock"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 282001}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 3}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Billy Squier"}
@@ -675,11 +675,11 @@
          {set $songalbum "Los Angeles"}
          {set $author "Harmonix"}
          {set $songyear "1980"}
-         {set $songgenre "Punk Rock"}
+         {set $songgenre "Punk"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 147501}
          {set $songguitarrank 4}
-         {set $songbassrank 0}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "X"}
@@ -721,11 +721,11 @@
          {set $songalbum "Blackout"}
          {set $author "Harmonix"}
          {set $songyear "1982"}
-         {set $songgenre "Hard Rock"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 245001}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Scorpions"}
@@ -765,11 +765,11 @@
          {set $songalbum "Open Up and Say... Ahh!"}
          {set $author "Harmonix"}
          {set $songyear "1988"}
-         {set $songgenre "Glam Metal"}
+         {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 227688}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Poison"}
@@ -812,8 +812,8 @@
          {set $songgenre "New Wave"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 238813}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 3}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Oingo Boingo"}
@@ -855,11 +855,11 @@
          {set $songalbum "Extreme"}
          {set $author "Harmonix"}
          {set $songyear "1989"}
-         {set $songgenre "Speed Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 209307}
          {set $songguitarrank 7}
-         {set $songbassrank 0}
+         {set $songbassrank 5}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Extreme"}
@@ -901,11 +901,11 @@
          {set $songalbum "Give Me Convenience or Give Me Death"}
          {set $author "Harmonix"}
          {set $songyear "1987"}
-         {set $songgenre "Punk Rock"}
+         {set $songgenre "Punk"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 147400}
          {set $songguitarrank 2}
-         {set $songbassrank 0}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Dead Kennedys"}
@@ -946,11 +946,11 @@
          {set $songalbum "Big Game"}
          {set $author "Harmonix"}
          {set $songyear "1989"}
-         {set $songgenre "Hard Rock"}
+         {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 355501}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "White Lion"}
@@ -992,11 +992,11 @@
          {set $songalbum "Out of the Cellar"}
          {set $author "Harmonix"}
          {set $songyear "1984"}
-         {set $songgenre "Glam Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 279939}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Ratt"}
@@ -1036,11 +1036,11 @@
          {set $songalbum "Winger"}
          {set $author "Harmonix"}
          {set $songyear "1988"}
-         {set $songgenre "Glam Metal"}
+         {set $songgenre "Glam"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 248939}
          {set $songguitarrank 6}
-         {set $songbassrank 0}
+         {set $songbassrank 4}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Winger"}
@@ -1083,8 +1083,8 @@
          {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 195126}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 1}
+         {set $songbassrank 1}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Eddie Money"}
@@ -1127,8 +1127,8 @@
          {set $songgenre "New Wave"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 303059}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Police"}
@@ -1171,8 +1171,8 @@
          {set $songgenre "New Wave"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 224100}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 2}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Vapors"}
@@ -1214,11 +1214,11 @@
          {set $songalbum "Warrior"}
          {set $author "Harmonix"}
          {set $songyear "1984"}
-         {set $songgenre "Power Pop"}
+         {set $songgenre "Rock"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 238018}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 2}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Scandal"}
@@ -1264,7 +1264,7 @@
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 152583}
          {set $songguitarrank 1}
-         {set $songbassrank 0}
+         {set $songbassrank 2}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Go Go's"}
@@ -1304,11 +1304,11 @@
          {set $songalbum "The Romantics"}
          {set $author "Harmonix"}
          {set $songyear "1980"}
-         {set $songgenre "Power Pop"}
+         {set $songgenre "Pop-Rock"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 177907}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 4}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "The Romantics"}
@@ -1350,11 +1350,11 @@
          {set $songalbum "Killers"}
          {set $author "Harmonix"}
          {set $songyear "1981"}
-         {set $songgenre "Heavy Metal"}
+         {set $songgenre "Metal"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 178117}
-         {set $songguitarrank 0}
-         {set $songbassrank 0}
+         {set $songguitarrank 5}
+         {set $songbassrank 5}
          {set $songrhythmrank 0}
          {set $songdrumrank 0}
          {set $songartist "Iron Maiden"}
