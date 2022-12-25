@@ -1,4 +1,3 @@
-
 ; 80s songs
 (18andlife
    (name "18 and Life")
@@ -368,8 +367,8 @@
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 261554}
          {set $songguitarrank 7}
-         {set $songbassrank 4}
-         {set $songrhythmrank 0}
+         {set $songbassrank 5}
+         {set $songrhythmrank 5}
          {set $songdrumrank 0}
          {set $songartist "Judas Priest"}
       }
@@ -501,10 +500,10 @@
          {set $songgenre "New Wave"}
          {set $songorigin "Guitar Hero: Rocks the 80's"}
          {set $songduration 264666}
-         {set $songguitarrank 1}
-         {set $songbassrank 1}
+         {set $songguitarrank 3}
+         {set $songbassrank 3}
          {set $songrhythmrank 0}
-         {set $songdrumrank 0}
+         {set $songdrumrank 3}
          {set $songartist "A Flock of Seagulls"}
       }
       "A Flock of Seagulls"
@@ -907,7 +906,7 @@
          {set $songguitarrank 2}
          {set $songbassrank 3}
          {set $songrhythmrank 0}
-         {set $songdrumrank 0}
+         {set $songdrumrank 6}
          {set $songartist "Dead Kennedys"}
       }
       "Dead Kennedys"
@@ -1266,7 +1265,7 @@
          {set $songguitarrank 1}
          {set $songbassrank 2}
          {set $songrhythmrank 0}
-         {set $songdrumrank 0}
+         {set $songdrumrank 4}
          {set $songartist "The Go Go's"}
       }
       "The Go Go's"
